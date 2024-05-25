@@ -24,7 +24,11 @@ It's worth noting that falling back to the standard deployment doesn't necessari
 
 Here is a video demonstrating the script in action. It shows how the script handles rate limit errors and switches between different deployments based on the maximum wait time for the PTU retry. 
 
-[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/embed/iQnW0cy1-sY)
+[![Watch the video](https://www.youtube.com/embed/iQnW0cy1-sY)](https://www.youtube.com/embed/iQnW0cy1-sY)
+
+[<img src="https://img.youtube.com/vi/iQnW0cy1-sY/hqdefault.jpg" width="600" height="300" />](https://www.youtube.com/embed/iQnW0cy1-sY)
+
+https://youtu.be/iQnW0cy1-sY
 
 ## How to run
 
