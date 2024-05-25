@@ -10,7 +10,7 @@ Here's the step-by-step process:
 
 1.  The script sends a request to the PTU model.
 
-2.  If the PTU model responds successfully, the process ends here. However, if a rate limit error occurs, the script takes the following steps:
+2.  If the PTU model responds successfully, the process ends here. <BR>However, if a rate limit error occurs, the script takes the following steps:
 
     - The script calculates the elapsed time since the first request and the 'retry-after-ms' time provided in the error response and adds these two times together.
     
