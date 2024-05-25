@@ -22,8 +22,9 @@ Here's the step-by-step process:
 
 It's worth noting that falling back to the standard deployment doesn't necessarily guarantee a faster response. Instead, it simply provides an alternative way to get a response without waiting for the `retry-after-ms` to make a new request to the PTU.
 
+Here is a video demonstrating the script in action. It shows how the script handles rate limit errors and switches between different deployments based on the maximum wait time for the PTU retry. 
 
-Here is a video demonstrating the script in action. It shows how the script handles rate limit errors and switches between different deployments based on the maximum wait time for the PTU retry. [Watch the video](media/retry_demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/embed/iQnW0cy1-sY)
 
 ## How to run
 
